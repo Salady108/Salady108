@@ -45,8 +45,8 @@
 - 🔥 **CUSTOM RTOS IMPLEMENTATION**  
   https://github.com/Salady108/CUSTOM-RTOS-IMPLEMENTATION
 
-- ⚡ **ALU Trojan detection**  
-  https://github.com/Salady108/ALU-Trojan-detection
+- ⚡ **Heterogeneous Touchless HCI for Media Control**  
+  https://github.com/sp0663/gesture_media_controller.git
 
 ---
 
