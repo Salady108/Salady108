@@ -46,7 +46,7 @@
   https://github.com/Salady108/Custom_RTOS_Health_monitoring.git
 
 - ⚡ **Heterogeneous Touchless HCI for Media Control**  
-  https://github.com/sp0663/gesture_media_controller.git
+  https://github.com/Salady108/gesture_media_controller.git
 
 ---
 
